@@ -2,7 +2,7 @@ MotionFreela Strategic Pricing & Retention Analysis 🎥
 An interactive decision-support tool developed to optimize pricing structures and improve customer retention for a subscription-based video production company.
 
 🔍 Strategic Insights Captured
-Subscription Performance: Tracked critical metrics including an Average Monthly Price of $2.63K and a 0.31 Conversion Rate across all tiers.
+Subscription Performance: Tracked critical metrics, including an Average Monthly Price of $2.63K and a 0.31 Conversion Rate across all tiers.
 
 Churn & Retention Analysis: Identified churn patterns across subscription plans (Starter, Enterprise, Pro, Growth), correlating lower churn with higher-tier "Growth" plans.
 
